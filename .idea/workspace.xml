@@ -77,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/doouya/babyhero/fragment/ParallaxFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.43398392" vertical-offset="9159" max-vertical-offset="10625">
-              <caret line="637" column="80" selection-start-line="637" selection-start-column="80" selection-end-line="637" selection-end-column="80" />
+              <caret line="637" column="83" selection-start-line="637" selection-start-column="83" selection-end-line="637" selection-end-column="83" />
               <folding>
                 <element signature="e#23173#28547#0" expanded="true" />
                 <element signature="e#28540#28541#0" expanded="true" />
@@ -2827,7 +2827,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/doouya/babyhero/fragment/ParallaxFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43398392" vertical-offset="9159" max-vertical-offset="10625">
-          <caret line="637" column="80" selection-start-line="637" selection-start-column="80" selection-end-line="637" selection-end-column="80" />
+          <caret line="637" column="83" selection-start-line="637" selection-start-column="83" selection-end-line="637" selection-end-column="83" />
           <folding>
             <element signature="e#23173#28547#0" expanded="true" />
             <element signature="e#28540#28541#0" expanded="true" />
