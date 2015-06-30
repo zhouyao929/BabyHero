@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="time_blue">#50EBDD</color>
+    <color name="cal_yellow">#FFA746</color>
+    <color name="switch_on">#BEF6F1</color>
+    <color name="setting_orange">#FE8745</color>
+    <color name="boy_blue">#2DB2EE</color>
+    <color name="girl_red">#FF7A7A</color>
+    <color name="tap_color">#C2C2C2</color>
+    <color name="setting_blue">#5AC0F0</color>
+</resources>

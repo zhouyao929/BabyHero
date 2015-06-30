@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.doouya.babyhero"
-        minSdkVersion 16
+        minSdkVersion 18
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
@@ -28,4 +28,6 @@ dependencies {
     compile 'de.hdodenhof:circleimageview:1.3.0'
     //MPAndroidChart库
     compile 'com.github.PhilJay:MPAndroidChart:v2.1.0'
+    //fresco图片库
+    compile 'com.facebook.fresco:fresco:0.5.2+'
 }
